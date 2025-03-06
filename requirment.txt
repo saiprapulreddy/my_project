@@ -1,0 +1,8 @@
+Install Python
+Install libraries
+pip install matplotlib
+pip intsall numpy
+pip install pandas
+pip install scipy
+pip install seaborn
+pip install corner
